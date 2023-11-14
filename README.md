@@ -17,10 +17,12 @@ Screens:
 HomeScreen.js: Displays a list of videos from Wired Magazine's channel fetched from DailyMotion.com API.
 
 
+
 VideoDetailsScreen.js: Displays details about a selected video, including the video thumbnail, title, description, and total number of views. Allows the user to add the video to their favorites list.
 
 
 FavoritesScreen.js: Displays a list of favorited videos and provides options to view details or clear the favorites list.
+
 
 Navigation:
 
