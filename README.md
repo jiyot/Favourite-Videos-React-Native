@@ -18,10 +18,10 @@ HomeScreen.js: Displays a list of videos from Wired Magazine's channel fetched f
 
 
 
-VideoDetailsScreen.js: Displays details about a selected video, including the video thumbnail, title, description, and total number of views. Allows the user to add the video to their favorites list.
+VideoDetailsScreen.js: Displays details about a selected video, including the video thumbnail, title, description, and total number of views. Allows the user to add the video to their favourites list.
 
 
-FavoritesScreen.js: Displays a list of favorited videos and provides options to view details or clear the favorites list.
+FavoritesScreen.js: Displays a list of favourite videos and provides options to view details or clear the favourites list.
 
 
 Navigation:
@@ -69,30 +69,8 @@ Set up Firebase:
 Follow the Firebase setup instructions mentioned in the task description to integrate Firebase Firestore for data persistence.
 
 Run the app:
-
-bash
-Copy code
 npm start
-Submission
-To submit your project:
 
-Remove the node_modules folder from your project.
-
-Zip the project:
-
-bash
-Copy code
-zip -r YOURFIRSTNAME_Videos.zip .
-Upload the zip file and a screen recording demonstrating all functionalities, including CRUD operations reflected in the database, to the dropbox.
-
-Notes
-Follow the coding style and architecture guidelines provided in the task description.
-Ensure that your app is reasonably pretty, with styling performed using React Native's CSS styling.
-Make appropriate use of React Native components and navigation.
-Integrate the specified API endpoints for retrieving videos from Wired Magazine's channel on DailyMotion.com.
-Implement data persistence using Firebase Firestore for adding, removing, or retrieving favorited videos.
-Follow the provided rubrics for grading.
-
-
+Feel free to reach out if you have any questions or encounter issues. Good luck!
 
 
